@@ -40,5 +40,7 @@ public:
 	void Modificar(NodoDobleTrabajador^ nodo, String^ nombre, String^ apellido, String^ apellido2, String^ dpi, double Salario, String^ fecha, String^ departamento, String^ cargo);
 
 	void Modificar(NodoDobleTrabajador^ nodo, String^ nombre, String^ apellido, String^ apellido2, String^ dpi, double Salario, String^ fecha, String^ departamento);
+
+	
 };
 

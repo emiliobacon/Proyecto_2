@@ -12,6 +12,8 @@ public:
 	int Buscar(String^ curso);
 	int Buscar2(String^ curso);
 	bool Eliminar(String^ curso);
+
+	
 	String^ Recorrer();
 };
 
